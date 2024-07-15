@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alka204&label=Profile%20views&color=0e75b6&style=flat" alt="alka204" /> </p>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **Frontend developer**
 
-- 💬 Ask me about **C++ , Python and C**
+- 💬 Ask me about **C++ , Python and java**
 
 - 📫 How to reach me **alkakumari3289@gmial.com**
 
