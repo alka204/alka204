@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frontend developer**
 
-- 💬 Ask me about **C++ , Python and java**
+- 💬 Ask me about **C , C++ and Python**
 
 - 📫 How to reach me **alkakumari3289@gmial.com**
 
